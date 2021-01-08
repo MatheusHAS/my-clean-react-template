@@ -1,2 +1,19 @@
 # my-clean-react-template
-My react template, using Clean Architecture, ReactJS, Jest, Styled Components, SOLID, Design Patterns and more.
+
+## This template, use:
+
+- Clean Architecture
+- SOLID principles
+- Design Patterns (Dependecy Injection, Factory...)
+- Clean Code
+- ReactJS (with Typescript)
+- Redux + Saga
+- Styled Components
+- SASS
+- Jest
+- Husky
+- CommitLint
+- ESLint
+- Prettier
+- Webpack
+- And more...
